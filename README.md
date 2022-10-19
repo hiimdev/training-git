@@ -29,7 +29,9 @@
 **git checkout -b branch_name**
 
 - Merge branch:
+
 **git merge branch_name** or **git rebase branch_name** (xây dựng lại các commit base kế thừa từ nhánh khác và viết lại lịch sử commit sau các commit cơ sở mới)
+>>>>>>>>> Temporary merge branch 2
 
 - Xoá branch:
 **git branch -d branch_name**
