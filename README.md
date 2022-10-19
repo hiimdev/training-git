@@ -10,7 +10,7 @@
 **git status**
 
 - Lưu thông tin chuẩn bị commit: 
-**git add file_name** ( git add . => add toàn bộ)
+**git add file_name** ( **git add .** => add toàn bộ)
 
 - reset trước khi add : 
 **git reset**
@@ -29,7 +29,7 @@
 **git checkout -b branch_name**
 
 - Merge branch:
-**git merge branch_name** or **git  rebase branch_name** (xây dựng lại các commit base kế thừa từ nhánh khác và viết lại lịch sử commit sau các commit cơ sở mới)
+**git merge branch_name** or **git rebase branch_name** (xây dựng lại các commit base kế thừa từ nhánh khác và viết lại lịch sử commit sau các commit cơ sở mới)
 
 - Xoá branch:
 **git branch -d branch_name**
